@@ -1,0 +1,17 @@
+{
+    "__class__": "blessures",
+    "__module__": "stats",
+    "agilite": 3,
+    "chance": 0,
+    "degat": 0,
+    "endurance": 1,
+    "force": 0,
+    "hit": 0,
+    "intelligence": 0,
+    "name": "Jambe fracture",
+    "perception": 0,
+    "pv": 0,
+    "social": 0,
+    "stam_max": 0,
+    "stam_tour": 0
+}

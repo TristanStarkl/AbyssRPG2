@@ -1,0 +1,13 @@
+{
+    "__class__": "professions",
+    "__module__": "stats",
+    "agilite": 0,
+    "chance": 0,
+    "description": "Description\n",
+    "endurance": 0,
+    "force": 0,
+    "intelligence": 0,
+    "name": "Contondante",
+    "perception": 0,
+    "social": 0
+}

@@ -1,0 +1,17 @@
+{
+    "__class__": "blessures",
+    "__module__": "stats",
+    "agilite": 0,
+    "chance": 0,
+    "degat": 0,
+    "endurance": 0,
+    "force": 0,
+    "hit": 0,
+    "intelligence": 0,
+    "name": "Coupure au visage",
+    "perception": 2,
+    "pv": 0,
+    "social": 2,
+    "stam_max": 0,
+    "stam_tour": 0
+}
